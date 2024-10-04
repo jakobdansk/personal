@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jakobdansk website</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on jakobdansk website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 23:07:13 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>movies</title>
+      <link>//localhost:1313/posts/movies/</link>
+      <pubDate>Fri, 04 Oct 2024 23:07:13 +0200</pubDate>
+      <guid>//localhost:1313/posts/movies/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>mutorials</title>
+      <link>//localhost:1313/posts/tutorials/</link>
+      <pubDate>Fri, 04 Oct 2024 23:07:08 +0200</pubDate>
+      <guid>//localhost:1313/posts/tutorials/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>books</title>
+      <link>//localhost:1313/posts/books/</link>
+      <pubDate>Fri, 04 Oct 2024 23:07:01 +0200</pubDate>
+      <guid>//localhost:1313/posts/books/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Certification</title>
+      <link>//localhost:1313/posts/certifications/</link>
+      <pubDate>Fri, 04 Oct 2024 23:06:50 +0200</pubDate>
+      <guid>//localhost:1313/posts/certifications/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

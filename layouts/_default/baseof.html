@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{{ .Site.Params.author }}</title>
+	<meta name="description" content="{{ .Site.Params.description }}">
+	<meta name="author" content="{{ .Site.Params.author }}">
+	<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    {{ partial "header.html" . }}
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "footer.html" . }}
+</body>
+</html>

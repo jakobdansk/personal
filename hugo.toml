@@ -1,0 +1,34 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'jakobdansk website'
+
+[params]
+  author = 'jakobdansk'
+  github = 'https://github.com/jakobdansk'
+  description = 'personal website'
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Certifications"
+    url = "/certifications/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Books"
+    url = "/books/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Tutorials"
+    url = "/tutorials/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Movies"
+    url = "/movies/"
+    weight = 5
