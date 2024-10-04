@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'jakobdansk website'
 
@@ -14,21 +14,23 @@ title = 'jakobdansk website'
     weight = 1
 
   [[menu.main]]
-    name = "Certifications"
-    url = "/certifications/"
+    name = "Books"
+    url = "/books/"
     weight = 2
 
   [[menu.main]]
-    name = "Books"
-    url = "/books/"
+    name = "Certifications"
+    url = "/certifications/"
     weight = 3
-
-  [[menu.main]]
-    name = "Tutorials"
-    url = "/tutorials/"
-    weight = 4
 
   [[menu.main]]
     name = "Movies"
     url = "/movies/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Tutorials"
+    url = "/tutorials/"
     weight = 5
+
+

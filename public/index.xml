@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jakobdansk website</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on jakobdansk website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Oct 2024 23:07:13 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>movies</title>
-      <link>//localhost:1313/posts/movies/</link>
+      <title>Movies</title>
+      <link>http://localhost:1313/movies/</link>
       <pubDate>Fri, 04 Oct 2024 23:07:13 +0200</pubDate>
-      <guid>//localhost:1313/posts/movies/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
+      <guid>http://localhost:1313/movies/</guid>
+      <description>&lt;p&gt;books that I watch in 2024:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;movie1&lt;/li&gt;&#xA;&lt;li&gt;movie2&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>mutorials</title>
-      <link>//localhost:1313/posts/tutorials/</link>
+      <title>Tutorials</title>
+      <link>http://localhost:1313/tutorials/</link>
       <pubDate>Fri, 04 Oct 2024 23:07:08 +0200</pubDate>
-      <guid>//localhost:1313/posts/tutorials/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
+      <guid>http://localhost:1313/tutorials/</guid>
+      <description>&lt;p&gt;tutorials that I take in 2024:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;tut1&lt;/li&gt;&#xA;&lt;li&gt;tut2&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>books</title>
-      <link>//localhost:1313/posts/books/</link>
+      <title>Books</title>
+      <link>http://localhost:1313/books/</link>
       <pubDate>Fri, 04 Oct 2024 23:07:01 +0200</pubDate>
-      <guid>//localhost:1313/posts/books/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
+      <guid>http://localhost:1313/books/</guid>
+      <description>&lt;p&gt;books that I read in 2024:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;test1&lt;/li&gt;&#xA;&lt;li&gt;test2&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Certification</title>
-      <link>//localhost:1313/posts/certifications/</link>
+      <link>http://localhost:1313/certifications/</link>
       <pubDate>Fri, 04 Oct 2024 23:06:50 +0200</pubDate>
-      <guid>//localhost:1313/posts/certifications/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
+      <guid>http://localhost:1313/certifications/</guid>
+      <description>&lt;p&gt;books that I pass in 2024:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;cert1&lt;/li&gt;&#xA;&lt;li&gt;cert2&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
