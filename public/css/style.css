@@ -105,10 +105,9 @@ main {
 .window-body {
     padding: 1rem;
     background-color: #fff;
-    font-size: 1.2rem; /* Zwiększenie rozmiaru czcionki */
+    font-size: 1.2rem; 
 }
 
-/* Stylizacja stopki */
 footer {
     background: #c0c0c0;
     color: #000;
@@ -117,7 +116,6 @@ footer {
     border-top: 2px solid #fff;
 }
 
-/* Stylizacja linków */
 a {
     color: #000;
     text-decoration: none;
@@ -127,7 +125,6 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Responsywność */
 @media (max-width: 768px) {
     header {
         flex-direction: column;

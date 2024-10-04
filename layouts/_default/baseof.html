@@ -5,7 +5,7 @@
 	<title>{{ .Site.Params.author }}</title>
 	<meta name="description" content="{{ .Site.Params.description }}">
 	<meta name="author" content="{{ .Site.Params.author }}">
-	<link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 </head>
 <body>
     {{ partial "header.html" . }}
