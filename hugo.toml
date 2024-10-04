@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = "https://jakobdansk.github.io/personal/"
 languageCode = 'en-us'
 title = 'jakobdansk website'
 
